@@ -18,5 +18,6 @@
    ```
     Use your preferred terminal to navigate to the directory where you want to host the repository.
 
-1. Download and install Python interpreter, which you can download [HERE](https://www.python.org/downloads/)
+1. Download and install Python interpreter, which you can download [HERE](https://www.python.org/downloads/).
+      - Once installed, run the file using the Python interpreter, and you will be presented with the respective input fields for the assignment.
    

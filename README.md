@@ -15,3 +15,8 @@
 1. **Clone the Repository:**
    ```bash
    $ git clone https://github.com/ssramirezr/assignment1-compi.git
+   ```
+    Use your preferred terminal to navigate to the directory where you want to host the repository.
+
+1. Download and install Python interpreter, which you can download [HERE](https://www.python.org/downloads/)
+   
